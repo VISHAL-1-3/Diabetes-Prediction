@@ -114,3 +114,17 @@ This enables prioritized intervention strategies.
 ---
 
 ## 📂 Project Structure  
+
+---
+
+## 🔗 GitHub Link  
+[View Project](https://github.com/VISHAL-1-3/Diabetes-Prediction/blob/main/Diabetes_Prediction.ipynb)
+
+---
+
+## 🎯 Conclusion  
+This project demonstrates how machine learning can go beyond prediction to deliver **actionable insights and business value**.  
+
+By integrating analytics with decision-making, the model helps organizations improve outcomes while optimizing costs.
+
+---
